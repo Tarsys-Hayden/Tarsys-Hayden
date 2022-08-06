@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarsyshayden/)](https://www.linkedin.com/in/tarsyshayden/)
 
 - 🔭 I just quit working on Quality Engineering in manufacturing industry.
-- 🌱 Currently, I’m learning Data Science.
+- 🌱 Currently, I’m learning about Data Science.
 
 "Don’t be afraid, for I am with you.
     Don’t be discouraged, for I am your God.
