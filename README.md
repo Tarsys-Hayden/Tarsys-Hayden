@@ -6,7 +6,7 @@
 
 - 🔭 I just ended my career of Quality Engineer in manufacturing industry.
 - 🎯 I'm in transition career to Data Science.
-- 🌱 Currently, I’m learning about Python.
+- 🌱 Currently, I’m learning about Python and Git-GitHub
 - ❤️ I'm passionate about all things which involves God, sports, mind science, physics, technology, creation, innovation and data.
 
 "Don’t be afraid, for I am with you.
