@@ -4,9 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarsyshayden/)](https://www.linkedin.com/in/tarsyshayden/)
 
-- 🔭 I just ended my career of Quality Engineer in manufacturing industry.
-- 🎯 I'm in transition career to Data Science.
-- 🌱 Currently, I’m learning about Python and Git-GitHub
+- 🌱 I’m currently learning AI Deployment Engineering.
 - ❤️ I'm passionate about all things which involves God, sports, mind science, physics, technology, creation, innovation and data.
 
 "Don’t be afraid, for I am with you.
