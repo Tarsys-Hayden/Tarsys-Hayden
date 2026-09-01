@@ -4,8 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarsyshayden/)](https://www.linkedin.com/in/tarsyshayden/)
 
-- 🌱 I’m currently learning AI Deployment Engineering.
-- ❤️ I'm passionate about all things which involves God, sports, mind science, physics, technology, creation, innovation and data.
+- 🔭Senior professional in processes, logistics, and quality with over two decades of experience leading operational transformations at major market players. Expert in diagnosing bottlenecks and implementing solutions that reduce costs and maximize productivity.
 
 "Don’t be afraid, for I am with you.
     Don’t be discouraged, for I am your God.
