@@ -1,7 +1,5 @@
 # Tarsys Hayden
 
-**Head of My Destiny at My Life**
-
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarsyshayden/)](https://www.linkedin.com/in/tarsyshayden/)
 
 🔭 Senior professional in processes, logistics, and quality with over two decades of experience leading operational transformations at major market players. Expert in diagnosing bottlenecks and implementing solutions that reduce costs and maximize productivity.
